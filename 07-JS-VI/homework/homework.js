@@ -61,6 +61,7 @@ function filter(array) {
     arrayFlitreado.push(array[i]) ;
    }
  }
+
  return arrayFlitreado;
 }
 
